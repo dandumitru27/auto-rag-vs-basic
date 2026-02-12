@@ -11,7 +11,8 @@ dependencies = [
     "raganything (>=1.2.9,<2.0.0)",
     "chromadb (>=1.4.1,<2.0.0)",
     "python-dotenv (>=1.2.1,<2.0.0)",
-    "docling (>=2.72.0,<3.0.0)"
+    "docling (>=2.72.0,<3.0.0)",
+    "ipykernel (>=7.2.0,<8.0.0)"
 ]
 
 
