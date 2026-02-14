@@ -4,11 +4,13 @@ Testing RAG approches in Gen AI: Auto-RAG versus basic RAG with domain-specific 
 
 For Auto-RAG, a first implementation attempt is done using RAG-Anything - https://github.com/HKUDS/RAG-Anything
 
-Work in progress, the initial ingest script is not yet working completely.
+Work in progress.
 
 ## Run
 
-python ingest.py
+The initial implementation for Auto-RAG is in a Jupyter Notebook found in \auto-rag\notebook.ipynb
+
+It's able to ingest a PDF, either simple or complex, and run queries on it.
 
 ## Initial setup
 
